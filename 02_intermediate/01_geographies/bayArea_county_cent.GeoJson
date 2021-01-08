@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "COUNTYFP": "001" }, "geometry": { "type": "Point", "coordinates": [ -13571851.916158420965075, 4530207.177611062303185 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "013" }, "geometry": { "type": "Point", "coordinates": [ -13575553.381978962570429, 4568633.609505044296384 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "041" }, "geometry": { "type": "Point", "coordinates": [ -13664357.953709481284022, 4587265.39137626439333 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "055" }, "geometry": { "type": "Point", "coordinates": [ -13617782.87836167216301, 4651299.751934590749443 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "075" }, "geometry": { "type": "Point", "coordinates": [ -13630237.333404272794724, 4548150.680042887106538 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "081" }, "geometry": { "type": "Point", "coordinates": [ -13620576.61254652403295, 4500160.133383474312723 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "085" }, "geometry": { "type": "Point", "coordinates": [ -13547194.09318901784718, 4471621.760052722878754 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "095" }, "geometry": { "type": "Point", "coordinates": [ -13574290.237781323492527, 4617254.038288399577141 ] } },
+{ "type": "Feature", "properties": { "COUNTYFP": "097" }, "geometry": { "type": "Point", "coordinates": [ -13683724.453609064221382, 4653999.533428067341447 ] } }
+]
+}
