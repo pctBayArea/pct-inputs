@@ -6,7 +6,7 @@
 { "type": "Feature", "properties": { "countyfp": "013" }, "geometry": { "type": "Point", "coordinates": [ -121.951180997259186, 37.923285611388096 ] } },
 { "type": "Feature", "properties": { "countyfp": "041" }, "geometry": { "type": "Point", "coordinates": [ -122.74873017834588, 38.054907408451378 ] } },
 { "type": "Feature", "properties": { "countyfp": "055" }, "geometry": { "type": "Point", "coordinates": [ -122.330469256792327, 38.505950564426463 ] } },
-{ "type": "Feature", "properties": { "countyfp": "075" }, "geometry": { "type": "Point", "coordinates": [ -122.442512140917984, 37.778185842783813 ] } },
+{ "type": "Feature", "properties": { "countyfp": "075" }, "geometry": { "type": "Point", "coordinates": [ -122.447902026622117, 37.756593525426169 ] } },
 { "type": "Feature", "properties": { "countyfp": "081" }, "geometry": { "type": "Point", "coordinates": [ -122.35563205610778, 37.435688428794464 ] } },
 { "type": "Feature", "properties": { "countyfp": "085" }, "geometry": { "type": "Point", "coordinates": [ -121.696072329309246, 37.232072072498134 ] } },
 { "type": "Feature", "properties": { "countyfp": "095" }, "geometry": { "type": "Point", "coordinates": [ -121.940114731216966, 38.266564614924363 ] } },
